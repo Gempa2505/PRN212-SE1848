@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TryParseSimple/1.0.0": {
+        "runtime": {
+          "TryParseSimple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TryParseSimple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\PRN212\PRN212-SE1848\ParaSimpe\bin\Release\net9.0\ParamsSimpe.exe
+D:\PRN212\PRN212-SE1848\ParaSimpe\bin\Release\net9.0\ParamsSimpe.deps.json
+D:\PRN212\PRN212-SE1848\ParaSimpe\bin\Release\net9.0\ParamsSimpe.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\ParaSimpe\bin\Release\net9.0\ParamsSimpe.dll
+D:\PRN212\PRN212-SE1848\ParaSimpe\bin\Release\net9.0\ParamsSimpe.pdb
+D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Release\net9.0\ParamsSimpe.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Release\net9.0\ParamsSimpe.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Release\net9.0\ParamsSimpe.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Release\net9.0\ParamsSimpe.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Release\net9.0\ParamsSimpe.dll
+D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Release\net9.0\refint\ParamsSimpe.dll
+D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Release\net9.0\ParamsSimpe.pdb
+D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Release\net9.0\ParamsSimpe.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Release\net9.0\ref\ParamsSimpe.dll

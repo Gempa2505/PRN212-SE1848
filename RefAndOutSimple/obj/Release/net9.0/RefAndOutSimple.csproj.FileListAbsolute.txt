@@ -1,0 +1,14 @@
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\bin\Release\net9.0\RefAndOutSimple.exe
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\bin\Release\net9.0\RefAndOutSimple.deps.json
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\bin\Release\net9.0\RefAndOutSimple.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\bin\Release\net9.0\RefAndOutSimple.dll
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\bin\Release\net9.0\RefAndOutSimple.pdb
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\obj\Release\net9.0\RefAndOutSimple.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\obj\Release\net9.0\RefAndOutSimple.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\obj\Release\net9.0\RefAndOutSimple.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\obj\Release\net9.0\RefAndOutSimple.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\obj\Release\net9.0\RefAndOutSimple.dll
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\obj\Release\net9.0\refint\RefAndOutSimple.dll
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\obj\Release\net9.0\RefAndOutSimple.pdb
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\obj\Release\net9.0\RefAndOutSimple.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\RefAndOutSimple\obj\Release\net9.0\ref\RefAndOutSimple.dll

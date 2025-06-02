@@ -1,0 +1,14 @@
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\bin\Debug\net9.0\NextedLoop_Shape.exe
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\bin\Debug\net9.0\NextedLoop_Shape.deps.json
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\bin\Debug\net9.0\NextedLoop_Shape.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\bin\Debug\net9.0\NextedLoop_Shape.dll
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\bin\Debug\net9.0\NextedLoop_Shape.pdb
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.dll
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\refint\NextedLoop_Shape.dll
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.pdb
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\ref\NextedLoop_Shape.dll

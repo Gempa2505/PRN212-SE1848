@@ -1,0 +1,14 @@
+D:\PRN212\PRN212-SE1848\TryParseSimple\bin\Release\net9.0\TryParseSimple.exe
+D:\PRN212\PRN212-SE1848\TryParseSimple\bin\Release\net9.0\TryParseSimple.deps.json
+D:\PRN212\PRN212-SE1848\TryParseSimple\bin\Release\net9.0\TryParseSimple.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\TryParseSimple\bin\Release\net9.0\TryParseSimple.dll
+D:\PRN212\PRN212-SE1848\TryParseSimple\bin\Release\net9.0\TryParseSimple.pdb
+D:\PRN212\PRN212-SE1848\TryParseSimple\obj\Release\net9.0\TryParseSimple.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\TryParseSimple\obj\Release\net9.0\TryParseSimple.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\TryParseSimple\obj\Release\net9.0\TryParseSimple.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\TryParseSimple\obj\Release\net9.0\TryParseSimple.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\TryParseSimple\obj\Release\net9.0\TryParseSimple.dll
+D:\PRN212\PRN212-SE1848\TryParseSimple\obj\Release\net9.0\refint\TryParseSimple.dll
+D:\PRN212\PRN212-SE1848\TryParseSimple\obj\Release\net9.0\TryParseSimple.pdb
+D:\PRN212\PRN212-SE1848\TryParseSimple\obj\Release\net9.0\TryParseSimple.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\TryParseSimple\obj\Release\net9.0\ref\TryParseSimple.dll
