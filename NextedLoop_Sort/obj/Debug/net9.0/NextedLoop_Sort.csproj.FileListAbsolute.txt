@@ -2,3 +2,14 @@ D:\PRN212\PRN212-SE1848\NextedLoop_Sort\obj\Debug\net9.0\NextedLoop_Sort.Generat
 D:\PRN212\PRN212-SE1848\NextedLoop_Sort\obj\Debug\net9.0\NextedLoop_Sort.AssemblyInfoInputs.cache
 D:\PRN212\PRN212-SE1848\NextedLoop_Sort\obj\Debug\net9.0\NextedLoop_Sort.AssemblyInfo.cs
 D:\PRN212\PRN212-SE1848\NextedLoop_Sort\obj\Debug\net9.0\NextedLoop_Sort.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\bin\Debug\net9.0\NextedLoop_Sort.exe
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\bin\Debug\net9.0\NextedLoop_Sort.deps.json
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\bin\Debug\net9.0\NextedLoop_Sort.runtimeconfig.json
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\bin\Debug\net9.0\NextedLoop_Sort.dll
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\bin\Debug\net9.0\NextedLoop_Sort.pdb
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\obj\Debug\net9.0\NextedLoop_Sort.sourcelink.json
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\obj\Debug\net9.0\NextedLoop_Sort.dll
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\obj\Debug\net9.0\refint\NextedLoop_Sort.dll
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\obj\Debug\net9.0\NextedLoop_Sort.pdb
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\obj\Debug\net9.0\NextedLoop_Sort.genruntimeconfig.cache
+D:\PRN212\PRN212-SE1848\NextedLoop_Sort\obj\Debug\net9.0\ref\NextedLoop_Sort.dll

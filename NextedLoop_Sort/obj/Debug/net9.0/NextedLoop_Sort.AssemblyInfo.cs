@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NextedLoop_Sort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71b6122744dbd3e5b51a1a165394f9c561604468")]
 [assembly: System.Reflection.AssemblyProductAttribute("NextedLoop_Sort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NextedLoop_Sort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,5 @@
 ﻿//hàm sắp xếp (swap)
-void swap(ref int x, ref int  y)
+void swap(ref int x, ref int y)
 {
     int temp = x;
     x = y;
@@ -33,17 +33,21 @@ void sort_array(int[] arr)
         }
     }
 }
-
-void sort_arrayy(int [][] arr)
+//Sort_arrayByDowhile
+void sort_arrayByDowhile(int[] arr)
 {
     int i = 0;
     do
     {
-        int i = j = 1;
-        if (arr[i] > arr[j])
-            swap(arr[i], arr[j]);
-    }
-    while (arr[i] < arr[j]) {
-        swap(arr[j], arr[i]);
-    }
+        do
+        {
+            int j = i + 1;
+            if (arr[i] > arr[j])
+            {
+                swap(ref arr[i], ref arr[j]);
+            }
+            j++;
+        } while (i < arr.Length);
+        i++;
+    } while (i < arr.Length - 1);
 }

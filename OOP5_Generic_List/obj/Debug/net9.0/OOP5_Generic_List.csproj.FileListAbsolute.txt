@@ -19,3 +19,4 @@ D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\refint\OOP5_Generic_L
 D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.pdb
 D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.genruntimeconfig.cache
 D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\ref\OOP5_Generic_List.dll
+D:\PRN212\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.sourcelink.json

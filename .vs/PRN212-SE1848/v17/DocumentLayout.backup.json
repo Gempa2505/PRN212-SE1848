@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\PRN212\\PRN212-SE1848\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62EE9C7D-98C6-4933-9A2E-13885502D308}|OOP5_Generic_List\\OOP5_Generic_List.csproj|d:\\prn212\\prn212-se1848\\oop5_generic_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62EE9C7D-98C6-4933-9A2E-13885502D308}|OOP5_Generic_List\\OOP5_Generic_List.csproj|solutionrelative:oop5_generic_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|d:\\prn212\\prn212-se1848\\demolinq2objectmodelclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|solutionrelative:demolinq2objectmodelclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0542BFA9-BD71-4EE6-84F0-F3ECE423E220}|OOP6_Dictionary\\OOP6_Dictionary.csproj|d:\\prn212\\prn212-se1848\\oop6_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0542BFA9-BD71-4EE6-84F0-F3ECE423E220}|OOP6_Dictionary\\OOP6_Dictionary.csproj|solutionrelative:oop6_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|d:\\prn212\\prn212-se1848\\demolinq2objectmodelclass\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|solutionrelative:demolinq2objectmodelclass\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|d:\\prn212\\prn212-se1848\\demolinq2objectmodelclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|solutionrelative:demolinq2objectmodelclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\OOP6_Dictionary\\Program.cs",
-              "RelativeDocumentMoniker": "OOP6_Dictionary\\Program.cs",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\OOP6_Dictionary\\Program.cs",
-              "RelativeToolTip": "OOP6_Dictionary\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Title": "ListProduct.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\ListProduct.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\ListProduct.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\ListProduct.cs",
+              "RelativeToolTip": "DemoLINQ2ObjectModelClass\\ListProduct.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv1gAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T08:33:55.326Z",
+              "WhenOpened": "2025-06-02T18:35:32.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\OOP5_Generic_List\\Program.cs",
-              "RelativeDocumentMoniker": "OOP5_Generic_List\\Program.cs",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\OOP5_Generic_List\\Program.cs*",
-              "RelativeToolTip": "OOP5_Generic_List\\Program.cs*",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFYAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\Program.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\Program.cs*",
+              "RelativeToolTip": "DemoLINQ2ObjectModelClass\\Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T08:22:38.433Z",
+              "WhenOpened": "2025-06-02T18:40:59.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\Product.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\Product.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\Product.cs",
+              "RelativeToolTip": "DemoLINQ2ObjectModelClass\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:35:00.645Z",
               "EditorCaption": ""
             }
           ]
