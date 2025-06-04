@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\PRN212\\PRN212-SE1848\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|d:\\prn212\\prn212-se1848\\demolinq2objectmodelclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|solutionrelative:demolinq2objectmodelclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21C531AC-1C02-424F-92BF-7112607787B7}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|d:\\prn212\\prn212-se1848\\demolinq2sql\\mystore.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{21C531AC-1C02-424F-92BF-7112607787B7}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|solutionrelative:demolinq2sql\\mystore.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|d:\\prn212\\prn212-se1848\\demolinq2objectmodelclass\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|solutionrelative:demolinq2objectmodelclass\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|d:\\prn212\\prn212-se1848\\demolinq2objectmodelclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F148CF5A-8F10-4EFD-9C53-0B47A2C58361}|DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj|solutionrelative:demolinq2objectmodelclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21C531AC-1C02-424F-92BF-7112607787B7}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|d:\\prn212\\prn212-se1848\\demolinq2sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C531AC-1C02-424F-92BF-7112607787B7}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|solutionrelative:demolinq2sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListProduct.cs",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\ListProduct.cs",
-              "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\ListProduct.cs",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\ListProduct.cs",
-              "RelativeToolTip": "DemoLINQ2ObjectModelClass\\ListProduct.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAADwv1gAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:35:32.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\Program.cs",
-              "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\Program.cs",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\Program.cs*",
-              "RelativeToolTip": "DemoLINQ2ObjectModelClass\\Program.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:40:59.741Z",
+              "Title": "MyStore.dbml",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2SQL\\MyStore.dbml",
+              "RelativeDocumentMoniker": "DemoLINQ2SQL\\MyStore.dbml",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2SQL\\MyStore.dbml",
+              "RelativeToolTip": "DemoLINQ2SQL\\MyStore.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-06-02T19:35:23.116Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\Product.cs",
-              "RelativeDocumentMoniker": "DemoLINQ2ObjectModelClass\\Product.cs",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\Product.cs",
-              "RelativeToolTip": "DemoLINQ2ObjectModelClass\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2SQL\\Program.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2SQL\\Program.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2SQL\\Program.cs",
+              "RelativeToolTip": "DemoLINQ2SQL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:35:00.645Z",
+              "WhenOpened": "2025-06-02T19:31:45.745Z",
               "EditorCaption": ""
             }
           ]
