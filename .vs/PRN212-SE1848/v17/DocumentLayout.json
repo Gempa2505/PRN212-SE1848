@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\PRN212\\PRN212-SE1848\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{21C531AC-1C02-424F-92BF-7112607787B7}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|d:\\prn212\\prn212-se1848\\demolinq2sql\\mystore.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
-      "RelativeMoniker": "D:0:0:{21C531AC-1C02-424F-92BF-7112607787B7}|DemoLINQ2SQL\\DemoLINQ2SQL.csproj|solutionrelative:demolinq2sql\\mystore.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyStore.dbml",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2SQL\\MyStore.dbml",
-              "RelativeDocumentMoniker": "DemoLINQ2SQL\\MyStore.dbml",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DemoLINQ2SQL\\MyStore.dbml",
-              "RelativeToolTip": "DemoLINQ2SQL\\MyStore.dbml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2025-06-02T19:35:23.116Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
