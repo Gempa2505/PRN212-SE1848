@@ -20,15 +20,14 @@
         <Button x:Name="btnTong" HorizontalAlignment="Left" Margin="31,184,0,0" VerticalAlignment="Top" Width="60" Click="btnTong_Click" Height="22">
             <StackPanel Orientation="Horizontal">
                 <Image Height="16" Source="/Images/1564491_add_create_new_plus_icon.png" Stretch="Fill" Width="23" IsEnabled="False"/>
-                <TextBlock Text="Tổng" VerticalAlignment="Center" Width="33"/>
+                <TextBlock Text="Tổng" VerticalAlignment="Center"/>
             </StackPanel>
         </Button>
         <Button x:Name="btnThoat" HorizontalAlignment="Left" Margin="105,184,0,0" VerticalAlignment="Top" Width="62" Click="btnThoat_Click">
             <StackPanel Orientation="Horizontal">
                 <Image Height="16" Source="/Images/326635_app_exit_to_icon.png" Stretch="Fill" Width="16"/>
-                <TextBlock Text="Thoát" VerticalAlignment="Center" Height="18" Width="36" RenderTransformOrigin="0.909,0.587"/>
+                <TextBlock Text="Thoát" VerticalAlignment="Center"/>
             </StackPanel>
         </Button>
-
     </Grid>
 </Window>
