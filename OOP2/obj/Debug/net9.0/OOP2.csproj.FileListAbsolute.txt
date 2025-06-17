@@ -7,6 +7,7 @@ D:\PRN212\PRN212-SE1848\OOP2\obj\Debug\net9.0\OOP2.GeneratedMSBuildEditorConfig.
 D:\PRN212\PRN212-SE1848\OOP2\obj\Debug\net9.0\OOP2.AssemblyInfoInputs.cache
 D:\PRN212\PRN212-SE1848\OOP2\obj\Debug\net9.0\OOP2.AssemblyInfo.cs
 D:\PRN212\PRN212-SE1848\OOP2\obj\Debug\net9.0\OOP2.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\OOP2\obj\Debug\net9.0\OOP2.sourcelink.json
 D:\PRN212\PRN212-SE1848\OOP2\obj\Debug\net9.0\OOP2.dll
 D:\PRN212\PRN212-SE1848\OOP2\obj\Debug\net9.0\refint\OOP2.dll
 D:\PRN212\PRN212-SE1848\OOP2\obj\Debug\net9.0\OOP2.pdb

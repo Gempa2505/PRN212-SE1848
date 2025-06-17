@@ -7,6 +7,7 @@ D:\PRN212\PRN212-SE1848\FirstProject\obj\Debug\net9.0\FirstProject.GeneratedMSBu
 D:\PRN212\PRN212-SE1848\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfoInputs.cache
 D:\PRN212\PRN212-SE1848\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfo.cs
 D:\PRN212\PRN212-SE1848\FirstProject\obj\Debug\net9.0\FirstProject.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\FirstProject\obj\Debug\net9.0\FirstProject.sourcelink.json
 D:\PRN212\PRN212-SE1848\FirstProject\obj\Debug\net9.0\FirstProject.dll
 D:\PRN212\PRN212-SE1848\FirstProject\obj\Debug\net9.0\refint\FirstProject.dll
 D:\PRN212\PRN212-SE1848\FirstProject\obj\Debug\net9.0\FirstProject.pdb

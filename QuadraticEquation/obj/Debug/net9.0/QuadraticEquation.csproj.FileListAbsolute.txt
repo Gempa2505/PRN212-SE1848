@@ -7,6 +7,7 @@ D:\PRN212\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.Gen
 D:\PRN212\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.AssemblyInfoInputs.cache
 D:\PRN212\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.AssemblyInfo.cs
 D:\PRN212\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.sourcelink.json
 D:\PRN212\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.dll
 D:\PRN212\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\refint\QuadraticEquation.dll
 D:\PRN212\PRN212-SE1848\QuadraticEquation\obj\Debug\net9.0\QuadraticEquation.pdb

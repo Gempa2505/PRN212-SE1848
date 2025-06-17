@@ -1,0 +1,5 @@
+D:\PRN212\PRN212-SE1848\DemoLINQToObject\obj\Debug\net9.0\DemoLINQ2Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PRN212-SE1848\DemoLINQToObject\obj\Debug\net9.0\DemoLINQ2Object.AssemblyInfoInputs.cache
+D:\PRN212\PRN212-SE1848\DemoLINQToObject\obj\Debug\net9.0\DemoLINQ2Object.AssemblyInfo.cs
+D:\PRN212\PRN212-SE1848\DemoLINQToObject\obj\Debug\net9.0\DemoLINQ2Object.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\DemoLINQToObject\obj\Debug\net9.0\DemoLINQ2Object.sourcelink.json

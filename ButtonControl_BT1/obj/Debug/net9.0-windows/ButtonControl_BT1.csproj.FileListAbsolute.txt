@@ -1,4 +1,6 @@
 D:\PRN212\PRN212-SE1848\ButtonControl_BT1\bin\Debug\net9.0-windows\ButtonControl_BT1.exe
+D:\PRN212\PRN212-SE1848\ButtonControl_BT1\bin\Debug\net9.0-windows\Images\1564491_add_create_new_plus_icon.png
+D:\PRN212\PRN212-SE1848\ButtonControl_BT1\bin\Debug\net9.0-windows\Images\326635_app_exit_to_icon.png
 D:\PRN212\PRN212-SE1848\ButtonControl_BT1\bin\Debug\net9.0-windows\ButtonControl_BT1.deps.json
 D:\PRN212\PRN212-SE1848\ButtonControl_BT1\bin\Debug\net9.0-windows\ButtonControl_BT1.runtimeconfig.json
 D:\PRN212\PRN212-SE1848\ButtonControl_BT1\bin\Debug\net9.0-windows\ButtonControl_BT1.dll
@@ -19,5 +21,3 @@ D:\PRN212\PRN212-SE1848\ButtonControl_BT1\obj\Debug\net9.0-windows\refint\Button
 D:\PRN212\PRN212-SE1848\ButtonControl_BT1\obj\Debug\net9.0-windows\ButtonControl_BT1.pdb
 D:\PRN212\PRN212-SE1848\ButtonControl_BT1\obj\Debug\net9.0-windows\ButtonControl_BT1.genruntimeconfig.cache
 D:\PRN212\PRN212-SE1848\ButtonControl_BT1\obj\Debug\net9.0-windows\ref\ButtonControl_BT1.dll
-D:\PRN212\PRN212-SE1848\ButtonControl_BT1\bin\Debug\net9.0-windows\Images\1564491_add_create_new_plus_icon.png
-D:\PRN212\PRN212-SE1848\ButtonControl_BT1\bin\Debug\net9.0-windows\Images\326635_app_exit_to_icon.png

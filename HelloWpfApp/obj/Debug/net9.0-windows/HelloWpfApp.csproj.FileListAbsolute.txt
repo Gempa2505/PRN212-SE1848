@@ -3,10 +3,12 @@ D:\PRN212\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.deps.js
 D:\PRN212\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.runtimeconfig.json
 D:\PRN212\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.dll
 D:\PRN212\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.pdb
+D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\LoginWindow.g.cs
 D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\MainWindow.g.cs
 D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\App.g.cs
 D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp_MarkupCompile.cache
 D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp_MarkupCompile.lref
+D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\LoginWindow.baml
 D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\MainWindow.baml
 D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.g.resources
 D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -19,5 +21,3 @@ D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\refint\HelloWpfApp.
 D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.pdb
 D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.genruntimeconfig.cache
 D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\ref\HelloWpfApp.dll
-D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\LoginWindow.g.cs
-D:\PRN212\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\LoginWindow.baml

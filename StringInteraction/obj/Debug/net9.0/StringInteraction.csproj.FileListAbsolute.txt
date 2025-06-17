@@ -7,6 +7,7 @@ D:\PRN212\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.Gen
 D:\PRN212\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.AssemblyInfoInputs.cache
 D:\PRN212\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.AssemblyInfo.cs
 D:\PRN212\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.sourcelink.json
 D:\PRN212\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.dll
 D:\PRN212\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\refint\StringInteraction.dll
 D:\PRN212\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.pdb

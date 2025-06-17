@@ -7,6 +7,7 @@ D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.GeneratedMS
 D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.AssemblyInfoInputs.cache
 D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.AssemblyInfo.cs
 D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.sourcelink.json
 D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.dll
 D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\refint\SecondProject.dll
 D:\PRN212\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.pdb

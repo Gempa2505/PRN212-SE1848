@@ -7,6 +7,7 @@ D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.Gener
 D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.AssemblyInfoInputs.cache
 D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.AssemblyInfo.cs
 D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.sourcelink.json
 D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.dll
 D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\refint\NextedLoop_Shape.dll
 D:\PRN212\PRN212-SE1848\NextedLoop_Shape\obj\Debug\net9.0\NextedLoop_Shape.pdb

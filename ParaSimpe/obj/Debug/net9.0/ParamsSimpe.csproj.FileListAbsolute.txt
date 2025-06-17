@@ -7,6 +7,7 @@ D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Debug\net9.0\ParamsSimpe.GeneratedMSBuildE
 D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Debug\net9.0\ParamsSimpe.AssemblyInfoInputs.cache
 D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Debug\net9.0\ParamsSimpe.AssemblyInfo.cs
 D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Debug\net9.0\ParamsSimpe.csproj.CoreCompileInputs.cache
+D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Debug\net9.0\ParamsSimpe.sourcelink.json
 D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Debug\net9.0\ParamsSimpe.dll
 D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Debug\net9.0\refint\ParamsSimpe.dll
 D:\PRN212\PRN212-SE1848\ParaSimpe\obj\Debug\net9.0\ParamsSimpe.pdb
