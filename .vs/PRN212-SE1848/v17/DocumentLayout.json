@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\PRN212\\PRN212-SE1848\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DD7B4E4-6A55-4836-90AA-D1878E9E11F7}|ListWFP\\ListWFP.csproj|d:\\prn212\\prn212-se1848\\listwfp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DD7B4E4-6A55-4836-90AA-D1878E9E11F7}|ListWFP\\ListWFP.csproj|solutionrelative:listwfp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA405B1B-2554-4BE2-9BBC-221540E1FD93}|Repository\\Repositories.csproj|d:\\prn212\\prn212-se1848\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA405B1B-2554-4BE2-9BBC-221540E1FD93}|Repository\\Repositories.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DD7B4E4-6A55-4836-90AA-D1878E9E11F7}|ListWFP\\ListWFP.csproj|d:\\prn212\\prn212-se1848\\listwfp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DD7B4E4-6A55-4836-90AA-D1878E9E11F7}|ListWFP\\ListWFP.csproj|solutionrelative:listwfp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BA405B1B-2554-4BE2-9BBC-221540E1FD93}|Repository\\Repositories.csproj|d:\\prn212\\prn212-se1848\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA405B1B-2554-4BE2-9BBC-221540E1FD93}|Repository\\Repositories.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438E64F0-82FC-4073-AFED-696267583EC3}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\prn212-se1848\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438E64F0-82FC-4073-AFED-696267583EC3}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E605B3-CC50-46E7-A234-3E49DB0C315B}|BusinessObject\\BusinessObject.csproj|d:\\prn212\\prn212-se1848\\businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E605B3-CC50-46E7-A234-3E49DB0C315B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E9D16-0E90-4E13-B082-37DF0D4C4BA5}|Services\\Services.csproj|d:\\prn212\\prn212-se1848\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E9D16-0E90-4E13-B082-37DF0D4C4BA5}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E853B5-7DD4-4259-9025-F9BFE8CAF36E}|WpfApp\\WpfApp.csproj|d:\\prn212\\prn212-se1848\\wpfapp\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E853B5-7DD4-4259-9025-F9BFE8CAF36E}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E853B5-7DD4-4259-9025-F9BFE8CAF36E}|WpfApp\\WpfApp.csproj|d:\\prn212\\prn212-se1848\\wpfapp\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9E853B5-7DD4-4259-9025-F9BFE8CAF36E}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E9D16-0E90-4E13-B082-37DF0D4C4BA5}|Services\\Services.csproj|d:\\prn212\\prn212-se1848\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E9D16-0E90-4E13-B082-37DF0D4C4BA5}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ListWFP\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ListWFP\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ListWFP\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ListWFP\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAtwDoAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T14:31:10.006Z",
+              "WhenOpened": "2025-06-19T19:42:59.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\ListWFP\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ListWFP\\MainWindow.xaml",
-              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\ListWFP\\MainWindow.xaml",
-              "RelativeToolTip": "ListWFP\\MainWindow.xaml",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:46:49.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:43:18.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\WpfApp\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\ProductWindow.xaml",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\WpfApp\\ProductWindow.xaml",
+              "RelativeToolTip": "WpfApp\\ProductWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T14:10:16.166Z",
+              "WhenOpened": "2025-06-19T19:37:12.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\BusinessObject\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Product.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\BusinessObject\\Product.cs",
+              "RelativeToolTip": "BusinessObject\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:43:15.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:46:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:47:42.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\PRN212-SE1848\\WpfApp\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\ProductWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\PRN212-SE1848\\WpfApp\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\ProductWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:43:31.608Z",
               "EditorCaption": ""
             }
           ]
